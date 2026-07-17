@@ -1,2 +1,8 @@
-# proyecto-integrador-html
-Proyecto donde se construye una estructura HTML5, aplicando etiquetas semanticas y buenas practicas. 
+# Proyecto Integrador HTML
+
+## Dany Miguel Mateo Hernández
+## 0905-23-19399
+
+## Descripcion
+Este proyecto corresponde a la primera tarea del curso de Desarrollo Web.
+Se desarrolló utilizando HTML5 y etiquetas semánticas, aplicando buenas prácticas de accesibilidad y organización del documento.
